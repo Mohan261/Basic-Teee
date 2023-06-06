@@ -203,7 +203,7 @@
 	background:#9ca2ae;
 }
 .size_sec{
-	padding:16px 0;
+	padding:1px 0;
 }
 .sizes{
 	gap:20px;
@@ -235,9 +235,6 @@
 	color:#cac7c7;
 	border-radius:6px;
 }
-.description{
-	padding:8px 0;
-}
 .btn{
 	margin-top:15px;
 	padding:8px 24px;
@@ -253,10 +250,9 @@
 	transition:0.4s;
 }
 .description{
-	padding:26px 0;
+	padding:24px 0 0;
 	border-bottom:1px solid #7c7c7c;
 }
-
 .para-1{
 	text-align: justify;
 	font-size:14px;
